@@ -1,3 +1,9 @@
+Figma:
+<a href="https://www.figma.com/design/LQJZqYhqxmwRQnlY5ipQUG/cb-setup?node-id=2-204&t=XIXetzeiVR0NAUoo-0">Figma design<a>
+
+Next js:
+<a href="https://clientbilling.netlify.app/">https://clientbilling.netlify.app<a>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
